@@ -36,6 +36,35 @@ I'm passionate about coding, problem-solving, and building cool projects. I beli
 
 ---
 
+## 📚 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guru-bharadwaj20&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+---
+
+## 🔥 GitHub Activity
+<p align="center">
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=guru-bharadwaj20&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guru-bharadwaj20&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=guru-bharadwaj20&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guru-bharadwaj20&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 🌐 Connect with Me
 
 [![Follow](https://img.shields.io/badge/Follow-black?style=flat&logo=github)](https://github.com/guru-bharadwaj20)
