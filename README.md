@@ -15,7 +15,7 @@ I'm passionate about coding, problem-solving, and building cool projects. I beli
 ---
 
 ### 📌 Recent Project
-#### [First_GUI](https://github.com/guru-bharadwaj20/First_GUI) - Check it out to see what I’m building and learning!
+#### [PESU IO Final Project](https://github.com/guru-bharadwaj20/PESU_IO_Final_Project) - Check it out to see what I’m building and learning!
 
 ---
 
