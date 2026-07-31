@@ -77,3 +77,7 @@
     <img width="98%" alt="Contribution snake" src="https://raw.githubusercontent.com/guru-bharadwaj20/guru-bharadwaj20/output/snake-dark.svg" />
   </picture>
 </p>
+
+<!-- Increments the view counter that .github/workflows/banner.yml reads and
+     draws into the banner's top-right corner. Intentionally 1x1. -->
+<img width="1" height="1" alt="" src="https://komarev.com/ghpvc/?username=guru-bharadwaj20&label=v&color=0d1117&style=flat-square" />
