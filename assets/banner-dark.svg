@@ -41,13 +41,13 @@
       <text x="-56" y="176">SYSTEMS &#183; DESIGN &#183; CODE &#183; IMPACT</text>
     </g>
 
-    <g transform="translate(895.6 34)">
+    <g transform="translate(886.9 34)">
       <path d="M0 9C3.6 3.2 8.4 0.6 11.5 0.6C14.6 0.6 19.4 3.2 23 9C19.4 14.8 14.6 17.4 11.5 17.4C8.4 17.4 3.6 14.8 0 9Z"
             fill="none" stroke="#5bc0be" stroke-width="1.6" stroke-linejoin="round"/>
       <circle cx="11.5" cy="9" r="3.4" fill="#5bc0be"/>
     </g>
     <text class="txt" x="946" y="49" fill="#9aa4b1" font-size="15" font-weight="500"
-          letter-spacing="0.6" text-anchor="end">97</text>
+          letter-spacing="0.6" text-anchor="end">118</text>
 
     <text class="name" x="54" y="88" fill="#e6edf3" font-size="43" letter-spacing="1.5">GURU R BHARADWAJ</text>
     <rect x="56" y="105" width="118" height="3" rx="1.5" fill="#5bc0be"/>
