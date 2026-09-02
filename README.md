@@ -20,14 +20,17 @@
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=E76F00" alt="Java" />
+<img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
 <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
 <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL" />
+<img src="https://img.shields.io/badge/Bash%2FShell-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash/Shell" />
 <br /><br />
 <sub><b>FRONTEND</b></sub>
 <br />
 <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3" />
 <br /><br />
@@ -44,16 +47,117 @@
 <br />
 <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
 <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=1A7CE0" alt="XGBoost" />
 <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=FFFFFF" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=plotly&logoColor=11557C" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-0D1117?style=flat-square&logo=python&logoColor=4C72B0" alt="Seaborn" />
+<img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
+<img src="https://img.shields.io/badge/BeautifulSoup-0D1117?style=flat-square&logo=python&logoColor=8BC34A" alt="BeautifulSoup" />
+<br /><br />
+<sub><b>CLOUD &amp; DEVOPS</b></sub>
+<br />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+<img src="https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
+<img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+<img src="https://img.shields.io/badge/Railway-0D1117?style=flat-square&logo=railway&logoColor=FFFFFF" alt="Railway" />
+<img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" alt="CI/CD" />
 <br /><br />
 <sub><b>TOOLS &amp; PLATFORMS</b></sub>
 <br />
 <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
 <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
-<img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+<img src="https://img.shields.io/badge/MATLAB-0D1117?style=flat-square&logo=mathworks&logoColor=E16737" alt="MATLAB" />
+<img src="https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0D1117?style=flat-square&logo=cisco&logoColor=1BA0D7" alt="Cisco Packet Tracer" />
+</div>
+
+<h3 align="center">Experience</h3>
+
+<div align="center">
+<sub><b>WORK &nbsp;·&nbsp; RESEARCH</b></sub>
+<br />
+<table width="100%">
+<tr>
+<td width="68%">
+<img src="https://img.shields.io/badge/Teaching%20Assistant-0D1117?style=flat-square&logo=googleclassroom&logoColor=5BC0BE" alt="Teaching Assistant" />
+<br />
+<sub>Operating Systems (UE25CS242A) &nbsp;·&nbsp; PES University</sub>
+</td>
+<td width="32%" align="right">
+<img src="https://img.shields.io/badge/Aug%202026%20%E2%80%93%20Present-0D1117?style=flat-square" alt="Aug 2026 to Present" />
+</td>
+</tr>
+<tr>
+<td width="68%">
+<img src="https://img.shields.io/badge/Summer%20Research%20Intern-0D1117?style=flat-square&logo=googlescholar&logoColor=5BC0BE" alt="Summer Research Intern" />
+<br />
+<sub>CDSAML &nbsp;·&nbsp; PES University</sub>
+</td>
+<td width="32%" align="right">
+<img src="https://img.shields.io/badge/Jun%202026%20%E2%80%93%20Jul%202026-0D1117?style=flat-square" alt="Jun 2026 to Jul 2026" />
+</td>
+</tr>
+<tr>
+<td width="68%">
+<img src="https://img.shields.io/badge/Web%20Development%20Intern-0D1117?style=flat-square&logo=ieee&logoColor=5BC0BE" alt="Web Development Intern" />
+<br />
+<sub>IEEE RAS &nbsp;·&nbsp; PES University</sub>
+</td>
+<td width="32%" align="right">
+<img src="https://img.shields.io/badge/Mar%202026%20%E2%80%93%20Apr%202026-0D1117?style=flat-square" alt="Mar 2026 to Apr 2026" />
+</td>
+</tr>
+<tr>
+<td width="68%">
+<img src="https://img.shields.io/badge/Chief%20Technical%20Officer-0D1117?style=flat-square&logo=canva&logoColor=5BC0BE" alt="Chief Technical Officer" />
+<br />
+<sub>GreenBhumi Foundation &nbsp;·&nbsp; New Delhi</sub>
+</td>
+<td width="32%" align="right">
+<img src="https://img.shields.io/badge/Apr%202025%20%E2%80%93%20May%202025-0D1117?style=flat-square" alt="Apr 2025 to May 2025" />
+</td>
+</tr>
+</table>
+<br />
+<sub><b>EXTRA CURRICULAR</b></sub>
+<br />
+<table width="100%">
+<tr>
+<td width="68%">
+<img src="https://img.shields.io/badge/Contributor-0D1117?style=flat-square&logo=opensourceinitiative&logoColor=5BC0BE" alt="Contributor" />
+<br />
+<sub>GirlScript Summer of Code</sub>
+</td>
+<td width="32%" align="right">
+<img src="https://img.shields.io/badge/May%202026%20%E2%80%93%20Present-0D1117?style=flat-square" alt="May 2026 to Present" />
+</td>
+</tr>
+<tr>
+<td width="68%">
+<img src="https://img.shields.io/badge/Campus%20Ambassador-0D1117?style=flat-square&logo=googleads&logoColor=5BC0BE" alt="Campus Ambassador" />
+<br />
+<sub>VENIX 2025 &nbsp;·&nbsp; IIM Bangalore</sub>
+</td>
+<td width="32%" align="right">
+<img src="https://img.shields.io/badge/Jun%202025%20%E2%80%93%20Jul%202025-0D1117?style=flat-square" alt="Jun 2025 to Jul 2025" />
+</td>
+</tr>
+<tr>
+<td width="68%">
+<img src="https://img.shields.io/badge/Web%20Developer-0D1117?style=flat-square&logo=react&logoColor=5BC0BE" alt="Web Developer" />
+<img src="https://img.shields.io/badge/Photographer-0D1117?style=flat-square&logo=adobelightroom&logoColor=5BC0BE" alt="Photographer" />
+<br />
+<sub>IEEE RAS, NEXUS &amp; PIXELS Clubs &nbsp;·&nbsp; PES University</sub>
+</td>
+<td width="32%" align="right">
+<img src="https://img.shields.io/badge/Sep%202024%20%E2%80%93%20Present-0D1117?style=flat-square" alt="Sep 2024 to Present" />
+</td>
+</tr>
+</table>
 </div>
 
 <!-- 
@@ -70,7 +174,7 @@
 <p align="center">
   <img width="98%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=guru-bharadwaj20&custom_title=Contribution%20Activity&bg_color=00000000&hide_border=true&hide_title=false&title_color=5BC0BE&color=808891&line=5BC0BE&point=5BC0BE&area=true&area_color=5BC0BE&radius=8" />
 </p>
--->
+
 
 <p align="center">
   <picture>
@@ -79,6 +183,7 @@
     <img width="98%" alt="Contribution snake" src="https://raw.githubusercontent.com/guru-bharadwaj20/guru-bharadwaj20/output/snake-dark.svg" />
   </picture>
 </p>
+-->
 
 <!-- Increments the view counter that .github/workflows/banner.yml reads and
      draws into the banner's top-right corner. Intentionally 1x1. -->
