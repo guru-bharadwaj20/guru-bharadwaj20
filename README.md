@@ -56,6 +56,7 @@
 <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
 </div>
 
+<!-- 
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
@@ -69,6 +70,7 @@
 <p align="center">
   <img width="98%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=guru-bharadwaj20&custom_title=Contribution%20Activity&bg_color=00000000&hide_border=true&hide_title=false&title_color=5BC0BE&color=808891&line=5BC0BE&point=5BC0BE&area=true&area_color=5BC0BE&radius=8" />
 </p>
+-->
 
 <p align="center">
   <picture>
