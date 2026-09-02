@@ -11,6 +11,8 @@
   &nbsp;<a href="https://github.com/guru-bharadwaj20"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=5BC0BE" alt="GitHub" /></a>
 </p>
 
+---
+
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">
@@ -74,6 +76,8 @@
 <img src="https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
 <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0D1117?style=flat-square&logo=cisco&logoColor=1BA0D7" alt="Cisco Packet Tracer" />
 </div>
+
+---
 
 <h3 align="center">Experience</h3>
 
