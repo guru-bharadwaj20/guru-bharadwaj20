@@ -164,21 +164,11 @@
 </table>
 </div>
 
-<!-- 
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img width="92%" alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guru-bharadwaj20&theme=transparent" />
-</p>
+---
 
 <p align="center">
   <img width="62%" alt="Contribution streak" src="https://github-readme-streak-stats-eight.vercel.app?user=guru-bharadwaj20&hide_border=true&disable_animations=true&background=00000000&stroke=30363D&ring=5BC0BE&fire=5BC0BE&currStreakLabel=5BC0BE&sideLabels=808891&currStreakNum=808891&sideNums=808891&dates=808891&excludeDaysLabel=808891" />
 </p>
-
-<p align="center">
-  <img width="98%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=guru-bharadwaj20&custom_title=Contribution%20Activity&bg_color=00000000&hide_border=true&hide_title=false&title_color=5BC0BE&color=808891&line=5BC0BE&point=5BC0BE&area=true&area_color=5BC0BE&radius=8" />
-</p>
-
 
 <p align="center">
   <picture>
@@ -187,8 +177,19 @@
     <img width="98%" alt="Contribution snake" src="https://raw.githubusercontent.com/guru-bharadwaj20/guru-bharadwaj20/output/snake-dark.svg" />
   </picture>
 </p>
--->
 
-<!-- Increments the view counter that .github/workflows/banner.yml reads and
-     draws into the banner's top-right corner. Intentionally 1x1. -->
+<!-- 
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img width="92%" alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guru-bharadwaj20&theme=transparent" />
+</p>
+     
+<p align="center">
+  <img width="98%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=guru-bharadwaj20&custom_title=Contribution%20Activity&bg_color=00000000&hide_border=true&hide_title=false&title_color=5BC0BE&color=808891&line=5BC0BE&point=5BC0BE&area=true&area_color=5BC0BE&radius=8" />
+</p>
+
+Increments the view counter that .github/workflows/banner.yml reads and
+     draws into the banner's top-right corner. Intentionally 1x1.
+-->
 <img width="1" height="1" alt="" src="https://komarev.com/ghpvc/?username=guru-bharadwaj20&label=v&color=0d1117&style=flat-square" />
