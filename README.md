@@ -167,7 +167,7 @@
 ---
 
 <p align="center">
-  <img width="62%" alt="Contribution streak" src="https://github-readme-streak-stats-eight.vercel.app?user=guru-bharadwaj20&hide_border=true&disable_animations=true&background=00000000&stroke=30363D&ring=5BC0BE&fire=5BC0BE&currStreakLabel=5BC0BE&sideLabels=808891&currStreakNum=808891&sideNums=808891&dates=808891&excludeDaysLabel=808891" />
+  <img width="62%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=guru-bharadwaj20&hide_border=true&disable_animations=true&background=00000000&stroke=30363D&ring=5BC0BE&fire=5BC0BE&currStreakLabel=5BC0BE&sideLabels=808891&currStreakNum=808891&sideNums=808891&dates=808891&excludeDaysLabel=808891" />
 </p>
 
 <p align="center">
